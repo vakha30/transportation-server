@@ -1,0 +1,13 @@
+{
+  "serverPort": 5000,
+  "db": {
+    "connectionLimit": 5,
+    "host": "localhost",
+    "user": "root",
+    "database": "transport_test_db",
+    "password": "stalker95"
+  },
+  "secretKey": "transport-key",
+  "apiKey": "AIzaSyDxczA6T86uhMRV4W30sLOwZd78-2Hmodw",
+  "price": 10
+}
