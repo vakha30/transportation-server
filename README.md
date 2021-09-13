@@ -25,7 +25,7 @@
               "finish": "Точка назначения",
               "weight": "Вес перевозки"
            }
-           В Authorization ставляем Bearer token
+           В Authorization вставляем Bearer token
            
 ### /api/transportation/ - Get запрос на получение списка перевозок. 
            Тело запроса:
@@ -34,4 +34,4 @@
               "finish": "Точка назначения",
               "weight": "Вес перевозки"
            }
-           В Authorization ставляем Bearer token
+           В Authorization вставляем Bearer token
